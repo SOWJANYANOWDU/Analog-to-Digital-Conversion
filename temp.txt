@@ -1,6 +1,6 @@
 // Analog to Digital conversion 
 
-// 'C' source line config statements
+
 
 // CONFIG
 #pragma config FOSC = EXTRC     // Oscillator Selection bits (RC oscillator)
